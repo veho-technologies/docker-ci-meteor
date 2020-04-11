@@ -1,7 +1,7 @@
 # docker-ci-meteor
 Docker images for building meteor apps in CircleCI
 
-This branch uses node 12.
+https://hub.docker.com/repository/docker/veho/ci-meteor
 
 Build a tagged image
 ```
